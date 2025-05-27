@@ -1,3 +1,9 @@
+🕵️ Real-time Object Detection System with Detectron2
+A desktop application that uses Detectron2 for real-time object detection on both static images and webcam input. Implemented Faster R-CNN for instance segmentation, achieving high accuracy on custom datasets. Integrated a simple Tkinter interface for user interaction, with seamless webcam feed processing via OpenCV.
+
+Tech Stack: Python, Detectron2, OpenCV, Tkinter
+
+
 # Real-time Object Detection with Detectron2
 
 Tkinter-based app for object detection using Faster R-CNN and Mask R-CNN. Supports both static image and webcam input.
